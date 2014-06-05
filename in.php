@@ -4,4 +4,5 @@
 	echo "nihao";
 	echo "hsjhsj";
 	echo "sjhsj";
+	echo "hello wordl";
 ?> 
