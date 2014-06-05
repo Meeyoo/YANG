@@ -8,5 +8,5 @@
 
 	echo "susuusus";
 
-   echo "成功5";
+   echo "成功6";
 ?> 
