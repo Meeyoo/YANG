@@ -7,5 +7,5 @@
 	echo "hello wordl";
 
 
-   echo "成功";
+   echo "成功2";
 ?> 
