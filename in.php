@@ -6,6 +6,6 @@
 	echo "sjhsj";
 	echo "hello wordl";
 
-
-   echo "成功3";
+	echo "susuusus";
+   echo "成功2";
 ?> 
