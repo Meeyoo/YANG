@@ -5,4 +5,7 @@
 	echo "hsjhsj";
 	echo "sjhsj";
 	echo "hello wordl";
+
+
+   echo "成功";
 ?> 
