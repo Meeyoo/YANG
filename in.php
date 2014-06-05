@@ -3,4 +3,5 @@
 	echo "hello";
 	echo "nihao";
 	echo "hsjhsj";
+	echo "sjhsj";
 ?> 
